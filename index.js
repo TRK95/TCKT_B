@@ -4,7 +4,7 @@ onload = () => {
       clearTimeout(c);
     }, 1000);
     const a = setTimeout(() => {
-      window.location.href = "HappyBoyDay.html"; 
+      window.location.href = "Happy_birthday.html"; 
       clearTimeout(a);
     }, 8000);
   };
